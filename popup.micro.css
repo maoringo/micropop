@@ -1,0 +1,31 @@
+/*
+ * Based on jquery.popup_help.js
+ * http://www.18th-technote.com/jquery-popup-help
+ * Copyright © 2011 - 2013 18th Tech Note by Yusuke Murayama
+ *
+ * Extracts microdata and abstract from PubMed ID
+ * Original from jquery.popup_help.css, modified by Maori Ito.
+ *
+ */
+
+.popup_help {
+  padding: 0 3px;
+  color: #66f;
+  font-weight: bold;
+  cursor: pointer;
+}
+.popup_help_window {
+  max-width: 500px;
+  position: absolute;
+  padding: 6px 10px;
+  background-color: #fff;
+  border: 5px double #ccc;
+  display: none;
+  color: #333;
+  font-family: 'Helvetica Neue'; 
+  font-size: 12px;
+  line-height: 1.5em;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #ccc;
+  white-space: pre-wrap;
+}
