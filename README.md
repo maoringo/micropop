@@ -1,12 +1,26 @@
-Hi!
+Micropop
+==
 
-This is a repository of micropop for microdata marked up contents.  
+This is a repository of micropop programs to encourage database developers.
+
+I wrote a simple program that collect microdata about publications and send queries to ncbi by using ajax
+to get publication data on the fly.
+
+I hope this program will be applied to not only for publications.
+
+Please use this program and give me comments or branch.
+
+Demo
+==
+
+[Click me](http://sagace.nibio.go.jp/publication/micropop/popup.html)
+
+Try function
+==
   
-If you just want to use program only, plese try below commands!  
+If you want to test function, please try code below!  
+If you find any bugs, let me know.
   
-If you want to extend function, please use programs.  
-  
-css and javascript program with microdata!  
 
 ```html
 <!--on html-->
@@ -23,7 +37,7 @@ PubMed:22674858</span></li>
 
 ```
 
-Then you can get abstract pop up automatically.  
+Then you can get title and abstract automatically.  
 Enjoy!!  
 
 
