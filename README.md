@@ -29,9 +29,9 @@ If you find any bugs, let me know.
 <script src="http://sagace.nibio.go.jp/publication/micropop/micropop.js"></script>  
 
 
-<ul itemscope itemtype="http://schema.org/ScholarlyArticle">
+<ul itemscope itemtype="http://schema.org/BiologicalDatabaseEntry">
 <li>Computational design, construction, and characterization of a set of specificity determining residues in protein-protein interactions
-<span itemprop='entryID' content='pmid:22674858' \>
+<span itemprop='reference' content='pmid:22674858' \>
 PubMed:22674858</span></li> 
 </ul>
 
