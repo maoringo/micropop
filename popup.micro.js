@@ -48,7 +48,7 @@
 	contenttext = '';
         //setting messages into window
         contenttext = $(this).attr('content');
-        //cutting out only after ":
+        //cutting out only after ":"
         contenttext = contenttext.split(":")[1];
  	var offsetTop = $(this).offset().top + defaults.marginTop;
         var offsetLeft = $(this).offset().left + defaults.marginLeft;
