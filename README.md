@@ -31,8 +31,8 @@ If you find any bugs, let me know.
 
 <ul itemscope itemtype="http://schema.org/BiologicalDatabaseEntry">
 <li>Computational design, construction, and characterization of a set of specificity determining residues in protein-protein interactions
-<span itemprop='reference' content='pmid:22674858' \>
-PubMed:22674858</span></li> 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22080510" itemprop='reference' content='pmid:22674858'>
+PubMed:22674858</a></li> 
 </ul>
 
 ```
