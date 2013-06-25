@@ -3,9 +3,9 @@ Micropop
 
 This is a repository of micropop programs to encourage database developers.
 
-I wrote a simple program that collect microdata about publications and   
-send queries to ncbi by using ajax to get publication data on the fly.
-
+I wrote a simple javascript.
+It collect microdata about publications and send queries to ncbi by 
+using ajax to get publication data on the fly.
 I hope this program will be applied to not only for publications.
 
 Please use this program and give me comments or branch.
