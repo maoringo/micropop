@@ -5,7 +5,7 @@
  *
  * Extracts microdata and abstract from PubMed ID
  * Original from jquery.popup_help.js, modified by Maori Ito.
- *
+ * This is a test.
  */
 
 (function($) {
